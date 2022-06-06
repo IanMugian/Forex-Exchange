@@ -31,4 +31,3 @@ for ($i = 0; $i < count($individuals); $i++) {
     }
 }
 
-echo "By Mugwanga Ian";
